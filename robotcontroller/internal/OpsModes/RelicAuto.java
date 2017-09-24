@@ -31,6 +31,7 @@ public class RelicAuto extends RedPosition2{
 
     /* Declare OpMode members. */
     RelicRecoveryHardware robot = new RelicRecoveryHardware();
+    //HELLOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 
     @Override
     public void runOpMode() throws InterruptedException {
