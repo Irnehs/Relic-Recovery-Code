@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "C:\\Users\\Henri\\Documents\\Coding\\ftc_app-master\\FtcRobotController\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw\\cube_mesh_vertex_shader.glsl",
+        "source": "C:\\Users\\Henri\\.android\\build-cache\\7ddfdd4c37c00b3ca88c1430350e4ce2d9cb050c\\output\\res\\raw\\cube_mesh_vertex_shader.glsl"
+    },
+    {
+        "merged": "C:\\Users\\Henri\\Documents\\Coding\\ftc_app-master\\FtcRobotController\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw\\cube_mesh_fragment_shader.glsl",
+        "source": "C:\\Users\\Henri\\.android\\build-cache\\7ddfdd4c37c00b3ca88c1430350e4ce2d9cb050c\\output\\res\\raw\\cube_mesh_fragment_shader.glsl"
+    },
+    {
+        "merged": "C:\\Users\\Henri\\Documents\\Coding\\ftc_app-master\\FtcRobotController\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw\\chimeconnect.wav",
+        "source": "C:\\Users\\Henri\\.android\\build-cache\\d03d08109c3000f05b536cb60ea5449999665daf\\output\\res\\raw\\chimeconnect.wav"
+    },
+    {
+        "merged": "C:\\Users\\Henri\\Documents\\Coding\\ftc_app-master\\FtcRobotController\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw\\simple_vertex_shader.glsl",
+        "source": "C:\\Users\\Henri\\.android\\build-cache\\7ddfdd4c37c00b3ca88c1430350e4ce2d9cb050c\\output\\res\\raw\\simple_vertex_shader.glsl"
+    },
+    {
+        "merged": "C:\\Users\\Henri\\Documents\\Coding\\ftc_app-master\\FtcRobotController\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw\\chimedisconnect.wav",
+        "source": "C:\\Users\\Henri\\.android\\build-cache\\d03d08109c3000f05b536cb60ea5449999665daf\\output\\res\\raw\\chimedisconnect.wav"
+    },
+    {
+        "merged": "C:\\Users\\Henri\\Documents\\Coding\\ftc_app-master\\FtcRobotController\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw\\nxtstartupsound.wav",
+        "source": "C:\\Users\\Henri\\.android\\build-cache\\d03d08109c3000f05b536cb60ea5449999665daf\\output\\res\\raw\\nxtstartupsound.wav"
+    },
+    {
+        "merged": "C:\\Users\\Henri\\Documents\\Coding\\ftc_app-master\\FtcRobotController\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw\\texture_vertex_shader.glsl",
+        "source": "C:\\Users\\Henri\\.android\\build-cache\\7ddfdd4c37c00b3ca88c1430350e4ce2d9cb050c\\output\\res\\raw\\texture_vertex_shader.glsl"
+    },
+    {
+        "merged": "C:\\Users\\Henri\\Documents\\Coding\\ftc_app-master\\FtcRobotController\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw\\warningmessage.wav",
+        "source": "C:\\Users\\Henri\\.android\\build-cache\\d03d08109c3000f05b536cb60ea5449999665daf\\output\\res\\raw\\warningmessage.wav"
+    },
+    {
+        "merged": "C:\\Users\\Henri\\Documents\\Coding\\ftc_app-master\\FtcRobotController\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw\\texture_fragment_shader.glsl",
+        "source": "C:\\Users\\Henri\\.android\\build-cache\\7ddfdd4c37c00b3ca88c1430350e4ce2d9cb050c\\output\\res\\raw\\texture_fragment_shader.glsl"
+    },
+    {
+        "merged": "C:\\Users\\Henri\\Documents\\Coding\\ftc_app-master\\FtcRobotController\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw\\errormessage.wav",
+        "source": "C:\\Users\\Henri\\.android\\build-cache\\d03d08109c3000f05b536cb60ea5449999665daf\\output\\res\\raw\\errormessage.wav"
+    },
+    {
+        "merged": "C:\\Users\\Henri\\Documents\\Coding\\ftc_app-master\\FtcRobotController\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw\\color_fragment_shader.glsl",
+        "source": "C:\\Users\\Henri\\.android\\build-cache\\7ddfdd4c37c00b3ca88c1430350e4ce2d9cb050c\\output\\res\\raw\\color_fragment_shader.glsl"
+    }
+]
